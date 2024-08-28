@@ -4,4 +4,4 @@
 個人的な知見のまとめ
 
 # 見方
-`main.md`を見てください
+[ここ](https://publish.obsidian.md/kukn)を見てください
